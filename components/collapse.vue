@@ -6,7 +6,6 @@
 
 <script>
   import {csstransitions} from '../utils/helpers.js'
-  import '../utils/ie9_polyfill.js'
 
   // for browsers that do not support transitions like IE9 just change immediately
   const TRANSITION_DURATION = csstransitions() ? 350 : 0;

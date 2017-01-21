@@ -5,7 +5,6 @@
 </template>
 
 <script>
-  import '../utils/ie9_polyfill.js'
 
   export default {
     replace: true,
