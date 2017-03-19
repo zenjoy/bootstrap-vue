@@ -9,7 +9,7 @@
    - https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css
    - https://unpkg.com/tether@latest/dist/js/tether.min.js
    - https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js
-  js_wrap: l  # load type: onLoad
-  panel_js: 3 # text/babel
+  js_wrap: l
+  panel_js: 3
 ...
 */
