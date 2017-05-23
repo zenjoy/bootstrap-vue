@@ -47,8 +47,9 @@ module.exports = {
     plugins: [
         '~plugins/bootstrap-vue.js',
         '~plugins/codemirror.js',
-        '~plugins/ga.js'
+        {src: '~plugins/ga.js', ssr: false}
     ],
+
     css: [
         path.resolve(__dirname, '../node_modules/bootstrap/dist/css/bootstrap.css'),
         path.resolve(__dirname, '../node_modules/highlightjs/styles/github-gist.css'),
