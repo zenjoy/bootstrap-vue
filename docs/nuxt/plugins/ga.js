@@ -3,7 +3,7 @@
 /*
  ** Only run on client-side and only in production mode
  */
-if (process.BROWSER_BUILD && process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === 'production') {
     /*
      ** Include Google Analytics Script
      */
