@@ -15,7 +15,7 @@
 
 <tbody>
   <tr class="row-success">
-    <th colspan="6"><h3>Prop: <code>state</code> type: String</h3></th>
+    <th colspan="6"><h3>Prop: <code>state</code><br><small>type: String</small></h3></th>
   </tr>
   <tr>
   <tr>
@@ -30,7 +30,7 @@
   <tr>
     <td><code>success</code></th>
     <td> </d>
-    <td> </d>
+    <td>&#x2716;</d>
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
@@ -38,7 +38,7 @@
   <tr>
     <td><code>danger</code></th>
     <td> </d>
-    <td> </d>
+    <td>&#x2716;</d>
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
@@ -46,7 +46,7 @@
   <tr>
     <td><code>warning</code></th>
     <td> </d>
-    <td> </d>
+    <td>&#x2716;</d>
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
@@ -55,7 +55,7 @@
 
 <tbody>
   <tr class="row-success">
-    <th colspan="6"><h3>Prop: <code>variant</code> type: String</h3></th>
+    <th colspan="6"><h3>Prop: <code>variant</code><br><small>type: String</small></h3></th>
   </tr>
   <tr>
     <th>Standard Values</th>
@@ -118,7 +118,7 @@
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
-    <td>&#x2713;</d>
+    <td> </d>
     <td> </d>
   </tr>
   <tr>
@@ -126,7 +126,7 @@
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
-    <td>&#x2713;</d>
+    <td> </d>
     <td> </d>
   </tr>
   <tr>
@@ -134,14 +134,14 @@
     <td>&#x2713;</d>
     <td> </d>
     <td> </d>
-    <td>&#x2713;</d>
+    <td> </d>
     <td> </d>
   </tr>
 </tbody>
 
 <tbody>
   <tr class="row-success">
-    <th colspan="6"><h3>Prop: <code>size</code> type: String</h3></th>
+  <th colspan="6"><h3>Prop: <code>size</code>, <code>button-size</code><br><small>type: String</small></h3></th>
   </tr>
   <tr>
     <th>Standard Values</th>
