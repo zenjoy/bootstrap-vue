@@ -18,6 +18,16 @@
     <th colspan="6"><h3>Prop: <code>state</code> type: String</h3></th>
   </tr>
   <tr>
+  <tr>
+    <th>Standard Values</th>
+    <th><code>&lt;b-button&gt;</code></th>
+    <th><code>&lt;b-form-file&gt;</code></th>
+    <th><code>&lt;b-form-*&gt;</code></th>
+    <th><code>&lt;b-table&gt;</code></th>
+    <th><code>&lt;b-card&gt;</code></th>
+  </tr>
+  </tr>
+  <tr>
     <td><code>success</code></th>
     <td> </d>
     <td> </d>
@@ -46,6 +56,14 @@
 <tbody>
   <tr class="row-success">
     <th colspan="6"><h3>Prop: <code>variant</code> type: String</h3></th>
+  </tr>
+  <tr>
+    <th>Standard Values</th>
+    <th><code>&lt;b-button&gt;</code></th>
+    <th><code>&lt;b-form-file&gt;</code></th>
+    <th><code>&lt;b-form-*&gt;</code></th>
+    <th><code>&lt;b-table&gt;</code></th>
+    <th><code>&lt;b-card&gt;</code></th>
   </tr>
   <tr>
     <td><code>primary</code></th>
@@ -124,6 +142,14 @@
 <tbody>
   <tr class="row-success">
     <th colspan="6"><h3>Prop: <code>size</code> type: String</h3></th>
+  </tr>
+  <tr>
+    <th>Standard Values</th>
+    <th><code>&lt;b-button&gt;</code></th>
+    <th><code>&lt;b-form-file&gt;</code></th>
+    <th><code>&lt;b-form-*&gt;</code></th>
+    <th><code>&lt;b-table&gt;</code></th>
+    <th><code>&lt;b-card&gt;</code></th>
   </tr>
   <tr>
     <td><code>lg</code></th>
